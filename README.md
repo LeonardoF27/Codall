@@ -1,2 +1,3 @@
-# Codall
-o miguel que fez
+### Codall
+
+Site feito para um trabalho de faculdade
